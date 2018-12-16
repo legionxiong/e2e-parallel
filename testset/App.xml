@@ -4,6 +4,6 @@
       <case index='1'>test_app_add</case>
       <case priority='1' skipIf='Web'>test_app_share</case>
       <case priority='1' skipIfNot='Mobile'>test_app_update_url</case>
-      </test>
+    </test>
   </module>
 </testset>
